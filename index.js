@@ -108,7 +108,6 @@ function checkWinner(){
 }
 
 //clear board and restart game when we click restart
-//player X starts game again
 //running is set back to true
 //hide winner button and show status text
 function restartGame(){
